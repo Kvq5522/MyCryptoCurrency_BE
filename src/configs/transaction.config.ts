@@ -1,0 +1,3 @@
+const TRANSACTION_FEE = 1;
+
+export { TRANSACTION_FEE };
